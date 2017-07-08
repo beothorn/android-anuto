@@ -309,8 +309,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2133333"
-     inkscape:cx="96.380614"
-     inkscape:cy="-110.2273"
+     inkscape:cx="361.19439"
+     inkscape:cy="51.98683"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -340,11 +340,27 @@
      id="layer1"
      transform="translate(0,-902.36214)">
     <rect
+       style="opacity:1;fill:#717171;fill-opacity:1;fill-rule:evenodd;stroke:#969696;stroke-width:10.8800745;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4156-8"
+       width="138.11992"
+       height="138.11992"
+       x="6.6301079"
+       y="908.30219"
+       ry="1.9113755" />
+    <rect
        style="opacity:1;fill:url(#pattern6044);fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:10.8800745;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4156"
        width="138.11992"
        height="138.11992"
        x="6.6301079"
+       y="908.30219"
+       ry="1.9113755" />
+    <rect
+       style="opacity:1;fill:#838383;fill-opacity:1;fill-rule:evenodd;stroke:#969696;stroke-width:10.8800745;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4156-8-9"
+       width="138.11992"
+       height="138.11992"
+       x="155.92754"
        y="908.30219"
        ry="1.9113755" />
     <rect
@@ -356,11 +372,27 @@
        y="908.30219"
        ry="1.9113755" />
     <rect
+       style="opacity:1;fill:#898989;fill-opacity:1;fill-rule:evenodd;stroke:#969696;stroke-width:10.8800745;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4156-8-5"
+       width="138.11992"
+       height="138.11992"
+       x="305.22498"
+       y="908.30219"
+       ry="1.9113755" />
+    <rect
        style="opacity:1;fill:url(#Polkadots-med);fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:10.8800745;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4156-6"
        width="138.11992"
        height="138.11992"
        x="305.22498"
+       y="908.30219"
+       ry="1.9113755" />
+    <rect
+       style="opacity:1;fill:#5c5c5c;fill-opacity:1;fill-rule:evenodd;stroke:#969696;stroke-width:10.8800745;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4156-8-0"
+       width="138.11992"
+       height="138.11992"
+       x="454.52243"
        y="908.30219"
        ry="1.9113755" />
     <rect
