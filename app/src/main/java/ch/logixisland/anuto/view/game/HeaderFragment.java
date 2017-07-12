@@ -90,7 +90,7 @@ public class HeaderFragment extends AnutoFragment implements GameListener, WaveL
         txt_wave.setText(getString(R.string.wave) + ": " + mWaveManager.getWaveNumber());
         txt_credits.setText(StringUtils.formatSuffix(mScoreBoard.getCredits()));
         txt_lives.setText(getString(R.string.lives) + ": " + mScoreBoard.getLives());
-        txt_bonus.setText(getString(R.string.bonus) + ": " + StringUtils.formatSuffix(mScoreBoard.getWaveBonus() + mScoreBoard.getEarlyBonus()));
+        txt_bonus.setText(StringUtils.formatSuffix(mScoreBoard.getWaveBonus() + mScoreBoard.getEarlyBonus()));
 
         for (int i = 0; i < view_tower_x.length; i++) {
             view_tower_x[i].setSlot(i);
@@ -221,7 +221,7 @@ public class HeaderFragment extends AnutoFragment implements GameListener, WaveL
         mHandler.post(new Runnable() {
             @Override
             public void run() {
-                txt_bonus.setText(getString(R.string.bonus) + ": " + StringUtils.formatSuffix(waveBonus + earlyBonus));
+                txt_bonus.setText(StringUtils.formatSuffix(waveBonus + earlyBonus));
                 txt_wave.setText(getString(R.string.wave) + ": " + mWaveManager.getWaveNumber() + " ("+ mWaveManager.getEnemiesCount()+ ")");
             }
         });
