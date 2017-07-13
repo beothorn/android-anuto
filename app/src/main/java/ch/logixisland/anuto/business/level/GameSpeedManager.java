@@ -35,15 +35,10 @@ public class GameSpeedManager {
         updateGameSpeed();
     }
 
-    public void increaseGameSpeed() {
-        if(!canIncreaseSpeed()) return;
+    public void changeGameSpeed() {
         gameSpeed *= 2;
-        updateGameSpeed();
-    }
-
-    public void decreaseGameSpeed() {
-        if(!canDecreaseSpeed()) return;
-        gameSpeed /= 2;
+        if(gameSpeed > 8)
+            gameSpeed = 1;
         updateGameSpeed();
     }
 
@@ -60,15 +55,11 @@ public class GameSpeedManager {
         mGameEngine.setTicksPerLoop(gameSpeed);
 
         for (GameSpeedListener listener : mListeners) {
-            listener.gameSpeedChangedTo(gameSpeed, canIncreaseSpeed(), canDecreaseSpeed());
+            listener.gameSpeedChangedTo(gameSpeed);
         }
     }
 
-    private boolean canDecreaseSpeed() {
-        return gameSpeed / 2 >= 1;
-    }
-
-    private boolean canIncreaseSpeed() {
-        return gameSpeed * 2 <= MAX_SPEED;
+    public int getCurrentSpeed() {
+        return gameSpeed;
     }
 }
