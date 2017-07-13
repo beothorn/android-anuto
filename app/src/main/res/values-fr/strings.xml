@@ -13,10 +13,7 @@
     <string name="game_over">Fin de la partie!</string>
     <string name="score">Score</string>
 
-    <string name="credits">Crédits</string>
-    <string name="lives">Vies</string>
     <string name="wave">Vague</string>
-    <string name="bonus">Bonus</string>
 
     <string name="level">Niveau</string>
     <string name="damage">Dégâts</string>

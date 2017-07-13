@@ -13,10 +13,7 @@
     <string name="game_over">Partita finita!</string>
     <string name="score">Punteggio</string>
 
-    <string name="credits">Crediti</string>
-    <string name="lives">Vite</string>
     <string name="wave">Ondata</string>
-    <string name="bonus">Bonus</string>
 
     <string name="level">Livello</string>
     <string name="damage">Danno</string>

@@ -13,10 +13,7 @@
     <string name="game_over">Gra skończona!</string>
     <string name="score">Punkty</string>
 
-    <string name="credits">Kasa</string>
-    <string name="lives">Życia</string>
     <string name="wave">Fala</string>
-    <string name="bonus">Bonus</string>
 
     <string name="level">Poziom</string>
     <string name="damage">Obrażenia</string>

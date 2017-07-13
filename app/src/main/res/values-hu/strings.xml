@@ -13,10 +13,7 @@
     <string name="game_over">Vége a játéknak!</string>
     <string name="score">Pontszám</string>
 
-    <string name="credits">Pontok</string>
-    <string name="lives">Életek</string>
     <string name="wave">Hullám</string>
-    <string name="bonus">Bónusz</string>
 
     <string name="level">Szint</string>
     <string name="damage">Támadóerő</string>

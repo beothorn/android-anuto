@@ -13,10 +13,7 @@
     <string name="game_over">¡Se acabó!</string>
     <string name="score">Puntuación</string>
 
-    <string name="credits">Créditos</string>
-    <string name="lives">Vidas</string>
     <string name="wave">Oleada</string>
-    <string name="bonus">Bonus</string>
 
     <string name="level">Nivel</string>
     <string name="damage">Daño</string>

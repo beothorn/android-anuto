@@ -13,10 +13,7 @@
     <string name="game_over">Игра окончена!</string>
     <string name="score">Очки</string>
 
-    <string name="credits">Средства</string>
-    <string name="lives">Жизни</string>
     <string name="wave">Волна</string>
-    <string name="bonus">Бонус</string>
 
     <string name="level">Уровень</string>
     <string name="damage">Урон</string>

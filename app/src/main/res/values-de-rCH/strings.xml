@@ -12,10 +12,7 @@
     <string name="game_over">Speel vörbii!</string>
     <string name="score">Pönkt</string>
 
-    <string name="credits">Guethabe</string>
-    <string name="lives">Läbe</string>
     <string name="wave">Wälle</string>
-    <string name="bonus">Bonus</string>
 
     <string name="level">Stufe</string>
     <string name="damage">Schade</string>

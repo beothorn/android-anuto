@@ -13,10 +13,7 @@
     <string name="game_over">Sfârșit!</string>
     <string name="score">Scor</string>
 
-    <string name="credits">Credits</string>
-    <string name="lives">Vieți</string>
     <string name="wave">Val</string>
-    <string name="bonus">Bonus</string>
 
     <string name="level">Nivel</string>
     <string name="damage">Daună</string>

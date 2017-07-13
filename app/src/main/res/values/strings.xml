@@ -20,10 +20,7 @@
     <string name="game_over">Game Over!</string>
     <string name="score">Score</string>
 
-    <string name="credits">Credits</string>
-    <string name="lives">Lives</string>
     <string name="wave">Wave</string>
-    <string name="bonus">Bonus</string>
 
     <string name="level">Level</string>
     <string name="damage">Damage</string>

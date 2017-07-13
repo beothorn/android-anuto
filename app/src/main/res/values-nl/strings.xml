@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Anuto TD</string>
-    <string name="bonus">Bonus</string>
     <string name="change_map">Verander Kaart</string>
-    <string name="credits">Credits</string>
     <string name="damage">Schade</string>
     <string name="distance">Afstand</string>
     <string name="duration">Duur</string>
@@ -11,7 +9,6 @@
     <string name="game_over">Spel Voorbij!</string>
     <string name="intensity">Intensiteit</string>
     <string name="level">Level</string>
-    <string name="lives">Levens</string>
     <string name="menu">Menu</string>
     <string name="next_wave">Volgende</string>
     <string name="off">Uit</string>

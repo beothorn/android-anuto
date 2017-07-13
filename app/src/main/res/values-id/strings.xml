@@ -12,10 +12,7 @@
     <string name="game_over">Permainan telah berakhir!</string>
     <string name="score">Skor</string>
 
-    <string name="credits">Uang</string>
-    <string name="lives">Nyawa</string>
     <string name="wave">Gelombang</string>
-    <string name="bonus">Bonus</string>
 
     <string name="level">Level</string>
     <string name="damage">Kerusakan</string>

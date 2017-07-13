@@ -13,10 +13,7 @@
     <string name="game_over">Ludo finita!</string>
     <string name="score">Poentaro</string>
 
-    <string name="credits">Spesmiloj</string>
-    <string name="lives">Vivoj</string>
     <string name="wave">Ondo</string>
-    <string name="bonus">Premio</string>
 
     <string name="level">Nivelo</string>
     <string name="damage">Damaĝo</string>
