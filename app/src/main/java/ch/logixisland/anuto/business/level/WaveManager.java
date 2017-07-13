@@ -68,6 +68,7 @@ public class WaveManager {
 
         mActiveWaves.clear();
         mNextWaveIndex = 0;
+        mEnemiesCount = 0;
         mNextWaveReady = true;
     }
 
